@@ -27,6 +27,9 @@ print("Jxx={Jxx}, Jz={Jz}, L={L:d}".format(Jxx=Jxx, Jz=Jz, L=L))
 
 print("1) create Arrays for an Neel MPS")
 
+#  v: virtual
+#  p: physical
+
 #  vL ->--B-->- vR
 #         |
 #         ^
